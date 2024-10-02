@@ -1,0 +1,17 @@
+[11:59:45][PluginLoader][WARNING] Plugins directory not found.
+[11:59:45][NATTCore][INFO] NATT CORE initialization done
+Version: 1.7.0 
+Configuration path: https://gitlab.com/ap5vs/test-config/email-sender-config/-/raw/main/test-config-1.yaml?ref_type=heads
+Configuration loading mode: FROM URL
+[11:59:45][NATTCore][INFO] Working directory path: /Users/martin.bercik/SWI/Třet'ák/AP5VS/email-sender-main
+[11:59:45][NATTCore][INFO] Start loading of the configuration file ...
+[11:59:46][NetworkIO][INFO] Yaml data has been loaded from network location (https://gitlab.com/ap5vs/test-config/email-sender-config/-/raw/main/test-config-1.yaml?ref_type=heads)
+[11:59:46][NATTCore][INFO] Configuration loading done
+[11:59:46][NATTCore][INFO] Start building test structure according to the configuration ...
+[11:59:46][NATTCore][INFO] Test structure ...
+[11:59:46][NATTCore][INFO] Test structure building done
+[11:59:46][NATTCore][INFO] Start test executing ...
+[11:59:46][TestReportGenerator][INFO] Extenet reports generated. Final report will be saved to file: test_report.html
+[11:59:46][NATTCore][INFO] Starts execution on the root keyword  ...
+[11:59:46][MessageBuffer][INFO] Message buffer created for module with name: server-1
+[11:59:46][SMTPEmailServer][INFO] (server-1) SMTP email server [server-1] terminated
